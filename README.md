@@ -32,5 +32,7 @@ var title = process.env.NEXT_PUBLIC_TITLE
 .env
 ```
 
+6. On Vercel, make sure you add the Environmental Variable before deploying it.
+
 ## BCIT data from Digital Design and Development
 [Digital Design and Development Diploma Course](https://www.bcit.ca/programs/digital-design-and-development-diploma-full-time-6515dipma/#courses)
